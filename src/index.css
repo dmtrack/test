@@ -1,0 +1,15 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.squared {
+    border-radius: 0!important;
+}
+.logo-img{
+    width:30px;
+    height:auto;
+    padding-bottom: 5px;
+   vertical-align: middle;
+}
